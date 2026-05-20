@@ -27,7 +27,7 @@ Welcome to **DevMesh** — a developer networking platform built to help develop
 ## Preview
 
 ![developers](./img/landing_page.png "developers")
-![projects](./img/page1.png "projects")
+![projects](./img/page2.png "projects")
 ![profile](./img/Page3.png "user-profile")
 <!-- ![inbox](/readmeimgs/inbox%20demo.png "inbox")
 ![project](/readmeimgs/project1.png "project") -->
