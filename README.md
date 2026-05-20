@@ -21,15 +21,15 @@ Welcome to **DevMesh** — a developer networking platform built to help develop
 - AWS S3
 - Heroku
 
-## Live Deployment
-- https://your-live-deployment-link.com
+<!-- ## Live Deployment -->
+
 
 ## Preview
 
-![developers](/readmeimgs/devpage.png "developers")
-![projects](/readmeimgs/projects.png "projects")
-![profile](/readmeimgs/profile_normal.png "user-profile")
-![inbox](/readmeimgs/inbox%20demo.png "inbox")
-![project](/readmeimgs/project1.png "project")
+![developers](/img/landing.png "developers")
+![projects](/img/Page1.png "projects")
+![profile](/img/Page2.png "user-profile")
+<!-- ![inbox](/readmeimgs/inbox%20demo.png "inbox")
+![project](/readmeimgs/project1.png "project") -->
 
 Thank you for checking out **DevMesh** 🚀
