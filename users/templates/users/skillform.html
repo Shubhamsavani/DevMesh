@@ -1,0 +1,25 @@
+{% extends "main.html" %}
+
+{% block content %}
+
+    <main class="formPage my-xl">
+        <div class="content-box">
+            <div class="formWrapper">
+                <a class="backButton" href="{% url 'useracc' %}"><i class="im im-angle-left"></i></a>
+                <br>
+
+                <form class="form" action=""method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    {% for field in form %}
+                    <!-- Input:Text -->
+                    <div class="form__field">
+                        <label for="formInput#text"> {{field.label}}  </label>
+                        {{field}} <!-- for updating the class of this field for styling we do it thru form.py with init method -->
+                    </div>
+                    {% endfor %}
+                    <input class="btn btn--sub btn--lg  my-md" type="submit" value="submit" />
+                </form>
+            </div>
+        </div>
+    </main>
+{% endblock %}
